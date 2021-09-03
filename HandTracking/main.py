@@ -1,3 +1,6 @@
+#Author Muhammad Zeeshan Iqbal
+#department Of CS&IT Peshawar UET Peshawar
+
 import cv2
 import os
 import time
